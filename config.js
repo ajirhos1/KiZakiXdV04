@@ -5,38 +5,38 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '6285878313791' ganti nomor kalian '628xxxxxx'
-//KiZakiXD ganti nama kalian xxxxz
+// '601137608340' ganti nomor kalian '628xxxxxx'
+//AJIRBOT ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6288902229533']
-global.pengguna = '𝐙𝐘𝐍𝐗'
+global.owner = ['6285821808618']
+global.pengguna = 'AJIR'
 global.premium = []
-global.author = '𝐙𝐘𝐍𝐗'
-global.pemilik = ['6288902229533'] 
-global.ownernomer = '6288902229533'
+global.author = 'AJIR'
+global.pemilik = ['601137608340'] 
+global.ownernomer = '6285821808618'
 global.ownername = '𝐙𝐘𝐍𝐗'
-global.botname = '𝐙𝐗 - 𝐁𝐎𝐓'
+global.botname = 'AJIR - 𝐁𝐎𝐓'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6288902229533'
-global.footer = '𝐙𝐗 - 𝐁𝐎𝐓'
+global.meki = '601137608340'
+global.footer = 'AJIR - 𝐁𝐎𝐓'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = '𝐙𝐘𝐍𝐗' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'AJIR' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://youtu.be/xvFZjo5PgG0' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/zyvnxx__'
-global.gc = 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN' //join ya
-global.dana = 'SEND KE QRIS : https://ibb.co/VvcDns2'
-global.gopay = 'SEND KE QRIS : https://ibb.co/VvcDns2'
-global.wame = 'https://wa.me/6288902229533'
-global.email = 'helloiamzynxx@gmail.com'
+global.yt = 'https://youtube.com/channel/UCKKRXu2Oh-Fv5S8JzHo5ecw' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/AJIRSTORE__'
+global.gc = 'https://chat.whatsapp.com/J6aULEfNPBr83RxVkK1eVq' //join ya
+global.dana = 'SEND KE QRIS : '
+global.gopay = 'SEND KE QRIS : '
+global.wame = 'https://wa.me/601137608340'
+global.email = 'gasmuhajir@gmail.com'
 global.region = 'Indonesia'
-global.link = 'https://linktr.ee/zynxxstore'
+global.link = 'https://linktr.ee/ajirstore'
 global.sc = 'https://bit.ly'
-global.packname = '𝐙𝐘𝐍𝐗 // @𝐳𝐲𝐯𝐧𝐱𝐱__\n' 
+global.packname = 'AJIR // @ajir__\n' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
